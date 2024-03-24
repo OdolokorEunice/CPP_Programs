@@ -1,0 +1,17 @@
+                            QUESTION 2 [35 Marks]
+Create a Student data structure with Name of character array data type; Score1, Score2, Score3 
+and Score4 of integer data type; and AvgScore of floating point data type. Create an array instance 
+of Student with size of three (3). Reads student’s information from a StudentInfo.txt file using the 
+ReadStudentInfo function into the Student Array Instance. Calculate the average score of each 
+student using the CalcAverage Function ad assigned the result to the AvgScore variables. Write the 
+Students name and average score to a AvgScoreFile.txt using a WriteAvgScore function.
+
+StudentInfo.txt
+Alao Adeniyi 70 85 75 60
+Bakare Chukwu 80 72 67 65
+Trey Song 55 49 85 77
+
+AvgScoreFile.txt Output Format
+Alao Adeniyi XXX
+Bakare Chukwu XXX
+Trey Song XXX
